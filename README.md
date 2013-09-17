@@ -1,1 +1,2 @@
-this is just a casual test to get acquainted with the git!!!!!!!!!!!!
+This is a website I build for fun when I got bored in my summer holidays. Probably in june 2013.
+What I wanted to do was colect all the online learning resources into a website. So started off with it, but something more interesting came up and I couldnt find time to work on this again. So If you want to implement something of this sought this might serve as a template. take whatever u want from this. Have fun :D
